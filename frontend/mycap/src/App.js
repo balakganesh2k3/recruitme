@@ -1,4 +1,4 @@
-import Loginregis from "./components/loginregister/Loginregis.jsx";
+import Loginregis from "./components/LoginRegister/Loginregis.jsx";
 function App() {
   return (
     <div>
